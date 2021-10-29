@@ -1,0 +1,12 @@
+{
+  "header_block": {
+    "header": {
+      "color": "#1BAC86",
+      "fontSize": 69
+    },
+    "sub_header": {
+      "color": "#AF632C",
+      "fontSize": 45
+    }
+  }
+}
