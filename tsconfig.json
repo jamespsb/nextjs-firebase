@@ -20,7 +20,9 @@
     "**/*.ts",
     "**/*.tsx",
     "components/AuthCheck.js",
-    "pages/home/index.js"
+    "pages/home/index.js",
+    "pages/home/index.jsx",
+    "pages/home/index.jsx"
   ],
   "exclude": ["node_modules"]
 }
